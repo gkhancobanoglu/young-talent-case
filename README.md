@@ -23,8 +23,7 @@ Bu projeyi çalıştırmak için **Go** kurulu olmalıdır.
 
 1. Depoyu klonlayın:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/gkhancobanoglu/young-talent-case.git
    ```
 2. Programı çalıştırın:
    ```sh
